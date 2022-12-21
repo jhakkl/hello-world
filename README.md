@@ -1,2 +1,2 @@
 # hello-world
-My first Git program.
+My first Git branch.
